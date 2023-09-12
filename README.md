@@ -1,2 +1,2 @@
-# Tempature-Converter-PowerShell
-Convert tempature between fahrenheit and celsius in PowerShell.
+# Temperature-Converter-PowerShell
+Convert temperature between fahrenheit and celsius in PowerShell.
